@@ -10,7 +10,8 @@
 - AI驱动全域内容洞察与品牌营销
 - AI驱动零售与跨境电商内容创作
 - AI驱动营销与销售场景落地实践
-- AI赋能融合教育与特殊教育（新增）
+- AI赋能融合教育与特殊教育
+- 孤独症儿童全生命周期教育支持与国际合作（新增）
 
 ## 🎯 技能清单
 
@@ -24,6 +25,7 @@
 | 6 | ai-retail-ecommerce-content-creation | 九维度内容创作模型 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-retail-ecommerce-content-creation) |
 | 7 | ai-marketing-sales-landing-practice | 九维度营销销售模型（阶段演进/擅长领域/挑战/方向/协作/场景/策略） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-marketing-sales-landing-practice) |
 | 8 | ai-inclusive-education-special-education | 六维度融合教育模型（理念/合作/AI/家庭/企业/人才培养） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-inclusive-education-special-education) |
+| 9 | autism-education-lifecycle-support-international-cooperation | 九维度教育支持模型（政策/筛查/师资/课程/就业/合作/融合/生命周期/未来） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/autism-education-lifecycle-support-international-cooperation) |
 
 ## 💡 核心认知汇总
 
@@ -57,19 +59,19 @@
 ---
 
 **创建时间**: 2026-05-25
-**技能总数**: 8个
-**测试通过率**: 100%（40个测试案例）
+**技能总数**: 9个
+**测试通过率**: 100%（45个测试案例）
 **创建者**: AutoClaw
 **数据来源**: 已脱敏处理，无企业隐私
 
 ---
 
-## 🆕 最新更新（2026-05-25 12:25）
+## 🆕 最新更新（2026-05-25 12:40）
 
-**新增技能**: ai-inclusive-education-special-education
-- **核心价值**: AI赋能融合教育与特殊教育实践，六维度融合教育模型
+**新增技能**: autism-education-lifecycle-support-international-cooperation
+- **核心价值**: 孤独症儿童全生命周期教育支持与国际合作实践，九维度教育支持模型
 - **关键认知**: 
-  - 融合教育理念：神经多样性视角+个性化教学+视觉支持+结构化游戏+积极行为支持
-  - AI技术赋能：个性化教学系统+虚拟现实+情绪监测+智能教学助手
-  - 家庭干预科技：智能评估+个性化干预+课程学习+教具生成闭环系统
-- **应用场景**: 融合教育实践、孤独症教育支持、家庭干预、专业人才培养
+  - 政策与体系建设：三期提升计划，全链条服务（筛查→干预→教育→就业→保障）
+  - 早期筛查与干预：四级网络建设，纳入儿童保健体系，筛查覆盖率>90%
+  - 融合教育实践：接而不纳/参与不足/支持有限三大挑战，三级评估响应系统
+- **应用场景**: 孤独症儿童教育、特殊教育政策、师资培训、国际合作、全生命周期支持
