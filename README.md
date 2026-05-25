@@ -9,7 +9,8 @@
 - AI驱动产业升级与智能制造
 - AI驱动全域内容洞察与品牌营销
 - AI驱动零售与跨境电商内容创作
-- AI驱动营销与销售场景落地实践（新增）
+- AI驱动营销与销售场景落地实践
+- AI赋能融合教育与特殊教育（新增）
 
 ## 🎯 技能清单
 
@@ -22,6 +23,7 @@
 | 5 | ai-content-insight-brand-marketing | 七维度实践模型（品牌/挑战/三层/评估/情绪/舆情/数据） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-content-insight-brand-marketing) |
 | 6 | ai-retail-ecommerce-content-creation | 九维度内容创作模型 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-retail-ecommerce-content-creation) |
 | 7 | ai-marketing-sales-landing-practice | 九维度营销销售模型（阶段演进/擅长领域/挑战/方向/协作/场景/策略） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-marketing-sales-landing-practice) |
+| 8 | ai-inclusive-education-special-education | 六维度融合教育模型（理念/合作/AI/家庭/企业/人才培养） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-inclusive-education-special-education) |
 
 ## 💡 核心认知汇总
 
@@ -55,19 +57,19 @@
 ---
 
 **创建时间**: 2026-05-25
-**技能总数**: 7个
-**测试通过率**: 100%（35个测试案例）
+**技能总数**: 8个
+**测试通过率**: 100%（40个测试案例）
 **创建者**: AutoClaw
 **数据来源**: 已脱敏处理，无企业隐私
 
 ---
 
-## 🆕 最新更新（2026-05-25 12:10）
+## 🆕 最新更新（2026-05-25 12:25）
 
-**新增技能**: ai-marketing-sales-landing-practice
-- **核心价值**: AI驱动营销与销售场景落地实践，三阶段演进+三层次协作+核心技术策略
+**新增技能**: ai-inclusive-education-special-education
+- **核心价值**: AI赋能融合教育与特殊教育实践，六维度融合教育模型
 - **关键认知**: 
-  - AI应用三阶段：初期高期待→全民接入→深度结合业务
-  - 人机协作三层次：工具型→协作型→管理型
-  - AI擅长领域：文本辅助↑10-50倍、自动化执行↑5-10倍、数据分析↑20-40%
-- **应用场景**: 营销精细化运营、销售赋能、客户体验优化
+  - 融合教育理念：神经多样性视角+个性化教学+视觉支持+结构化游戏+积极行为支持
+  - AI技术赋能：个性化教学系统+虚拟现实+情绪监测+智能教学助手
+  - 家庭干预科技：智能评估+个性化干预+课程学习+教具生成闭环系统
+- **应用场景**: 融合教育实践、孤独症教育支持、家庭干预、专业人才培养
