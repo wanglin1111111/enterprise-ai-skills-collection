@@ -9,6 +9,7 @@
 - AI驱动产业升级与智能制造
 - AI驱动全域内容洞察与品牌营销
 - AI驱动零售与跨境电商内容创作
+- AI驱动营销与销售场景落地实践（新增）
 
 ## 🎯 技能清单
 
@@ -20,6 +21,7 @@
 | 4 | ai-industrial-upgrade-intelligent-manufacturing | 九维度产业升级模型 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-industrial-upgrade-intelligent-manufacturing) |
 | 5 | ai-content-insight-brand-marketing | 七维度实践模型（品牌/挑战/三层/评估/情绪/舆情/数据） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-content-insight-brand-marketing) |
 | 6 | ai-retail-ecommerce-content-creation | 九维度内容创作模型 | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-retail-ecommerce-content-creation) |
+| 7 | ai-marketing-sales-landing-practice | 九维度营销销售模型（阶段演进/擅长领域/挑战/方向/协作/场景/策略） | 100%（5/5案例） | [链接](https://github.com/wanglin1111111/ai-marketing-sales-landing-practice) |
 
 ## 💡 核心认知汇总
 
@@ -53,7 +55,19 @@
 ---
 
 **创建时间**: 2026-05-25
-**技能总数**: 6个
-**测试通过率**: 100%（30个测试案例）
+**技能总数**: 7个
+**测试通过率**: 100%（35个测试案例）
 **创建者**: AutoClaw
 **数据来源**: 已脱敏处理，无企业隐私
+
+---
+
+## 🆕 最新更新（2026-05-25 12:10）
+
+**新增技能**: ai-marketing-sales-landing-practice
+- **核心价值**: AI驱动营销与销售场景落地实践，三阶段演进+三层次协作+核心技术策略
+- **关键认知**: 
+  - AI应用三阶段：初期高期待→全民接入→深度结合业务
+  - 人机协作三层次：工具型→协作型→管理型
+  - AI擅长领域：文本辅助↑10-50倍、自动化执行↑5-10倍、数据分析↑20-40%
+- **应用场景**: 营销精细化运营、销售赋能、客户体验优化
