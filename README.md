@@ -18,5 +18,36 @@
 
 ---
 
-**更新时间**: 2026-05-25
-**技能总数**: 7+
+**更新时间**: 2026-05-29
+**技能总数**: 1
+
+## 目录结构
+
+```
+enterprise-ai-skills-collection/
+├── metadata.json                    # 全局元数据
+├── README.md                        # 项目说明
+├── INDEX.md                         # 技能索引
+└── skills/
+    └── ai-driven-economic-research/   # 技能目录
+        ├── SKILL.md                   # 技能文档
+        ├── QUICKREF.md                # 快速参考
+        ├── metadata.json              # 技能元数据
+        ├── test/
+        │   └── test_cases.md          # 测试用例
+        └── example/
+            └── real_world_examples.md # 使用示例
+```
+
+## 快速开始
+
+```bash
+# 克隆仓库
+git clone https://github.com/wanglin1111111/enterprise-ai-skills-collection.git
+
+# 查看技能索引
+cat INDEX.md
+
+# 进入技能目录
+cd skills/ai-driven-economic-research/
+```
