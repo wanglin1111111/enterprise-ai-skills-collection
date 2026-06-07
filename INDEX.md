@@ -15,6 +15,7 @@
 | [AI创业CTO技术架构](skills/ai-startup-cto-architecture/) | 4 阶段技术架构 + 技术债评估 + 选型决策 + DORA（CTO 视角） | 100% (5/5 场景) | ✅ 可用 |
 | [AI创业营销GTM](skills/ai-startup-marketing-gtm/) | ICP 画像 + 价值主张 + 4 GTM 模式 + 6 渠道 + 增长飞轮（CMO 视角） | 100% (6/6 场景) | ✅ 可用 |
 | [AI创业运营与财务](skills/ai-startup-operations-finance/) | 4 阶段组织 + 财务预算 + 现金流管理 + 关键指标（COO/CFO 视角） | 100% (6/6 场景) | ✅ 可用 |
+| [AI创业实战评估](skills/ai-startup-real-case-evaluation/) | 9 视角实战打分 + 冲突识别 + Portfolio Review（实战应用） | 100% (3/3 案例) | ✅ 可用 |
 
 ## 技能详情
 
@@ -212,6 +213,37 @@
    - 人均产出 / 客户 NPS / 员工 NPS / 关键人才流失 / 决策速度
    - 3 要素文化（使命/愿景/价值观）
 
+### AI创业实战评估 (ai-startup-real-case-evaluation)
+
+- **描述**: 9 视角实战打分 + 冲突识别 + Portfolio Review
+- **核心内容**: 实战评估 4 步法 + 4 类冲突 + Portfolio 策略
+- **测试得分**: 100% (3/3 案例)
+- **文件位置**: [skills/ai-startup-real-case-evaluation/](skills/ai-startup-real-case-evaluation/)
+- **适用人群**: 投资人、portfolio 评估、项目复盘、决策者
+
+#### 核心模块
+
+1. **9 视角实战打分**
+   - 4 步法：评分/冲突/决策/跟进
+   - 加权公式 + 4 档决策
+   - 实战模板（1 页可填）
+
+2. **4 类冲突识别**
+   - 投资人 vs COO/CFO
+   - 创始人 vs 政策
+   - CTO vs CMO
+   - 学术 vs 商业
+
+3. **Portfolio Review**
+   - 季度评估模板
+   - 投资组合策略
+   - 资源动态调整
+
+4. **3 实战案例验证**
+   - AI 工业检测 (Pre-A): 6.755 重点观察
+   - AI 智能客服 (A 轮): 7.0 重点观察
+   - 跨境电商工具 (种子): 5.65 谨慎参与
+
 ### AI创业多视角评估手册 (ai-startup-multi-perspective-evaluation)
 
 - **描述**: 5 视角交叉验证 + 加权决策的元技能
@@ -285,7 +317,8 @@ enterprise-ai-skills-collection/
     ├── ai-startup-multi-perspective-evaluation/      # 技能6 (元技能)
     ├── ai-startup-cto-architecture/                  # 技能7
     ├── ai-startup-marketing-gtm/                     # 技能8
-    └── ai-startup-operations-finance/                # 技能9
+    ├── ai-startup-operations-finance/                # 技能9
+    └── ai-startup-real-case-evaluation/              # 技能10 (实战)
 ```
 
 ## 使用方式
@@ -315,9 +348,9 @@ cd enterprise-ai-skills-collection/skills/ai-driven-economic-research
 
 ## 技能统计
 
-- **总技能数**: 9
-- **已测试技能**: 9
-- **平均测试得分**: 98.2/100
+- **总技能数**: 10
+- **已测试技能**: 10
+- **平均测试得分**: 98.3/100
 - **最后更新**: 2026-06-07
 
 ## 贡献指南
@@ -333,5 +366,5 @@ cd enterprise-ai-skills-collection/skills/ai-driven-economic-research
 ---
 
 **更新时间**: 2026-06-07
-**技能总数**: 9
+**技能总数**: 10
 **维护者**: wanglin1111111

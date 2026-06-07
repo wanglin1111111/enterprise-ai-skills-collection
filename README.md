@@ -54,6 +54,11 @@
 - **核心内容**: 组织设计 + 财务预算 + 现金流管理
 - **测试得分**: 100% (6/6 场景)
 
+#### AI Startup Real Case Evaluation (AI创业实战评估)
+- **描述**: 9 视角实战打分 + 冲突识别 + Portfolio Review
+- **核心内容**: 实战评估 4 步法 + 4 类冲突
+- **测试得分**: 100% (3/3 案例)
+
 ## 技能目录
 
 查看各技能详细文档请访问对应子目录。
@@ -61,7 +66,7 @@
 ---
 
 **更新时间**: 2026-06-07
-**技能总数**: 9
+**技能总数**: 10
 
 ## 目录结构
 
@@ -79,7 +84,8 @@ enterprise-ai-skills-collection/
     ├── ai-startup-multi-perspective-evaluation/   # 元技能
     ├── ai-startup-cto-architecture/              # CTO
     ├── ai-startup-marketing-gtm/                 # CMO
-    └── ai-startup-operations-finance/            # COO/CFO
+    ├── ai-startup-operations-finance/            # COO/CFO
+    └── ai-startup-real-case-evaluation/          # 实战应用
 ```
 
 ## 快速开始
