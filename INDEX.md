@@ -12,6 +12,9 @@
 | [创业社区生态运营模型](skills/startup-ecosystem-operating-model/) | 5 层生态模型 + 阶段性支持 + 校友网络（孵化器视角） | 100% (5/5 场景) | ✅ 可用 |
 | [AI创业政策与产业趋势](skills/ai-startup-policy-trend/) | 4 政策维度 + 算力国产化 + 地缘政治应对（政策视角） | 100% (5/5 场景) | ✅ 可用 |
 | [AI创业多视角评估手册](skills/ai-startup-multi-perspective-evaluation/) | 5 视角交叉验证 + 加权决策（元技能，整合 4 视角） | 100% (5/5 案例) | ✅ 可用 |
+| [AI创业CTO技术架构](skills/ai-startup-cto-architecture/) | 4 阶段技术架构 + 技术债评估 + 选型决策 + DORA（CTO 视角） | 100% (5/5 场景) | ✅ 可用 |
+| [AI创业营销GTM](skills/ai-startup-marketing-gtm/) | ICP 画像 + 价值主张 + 4 GTM 模式 + 6 渠道 + 增长飞轮（CMO 视角） | 100% (6/6 场景) | ✅ 可用 |
+| [AI创业运营与财务](skills/ai-startup-operations-finance/) | 4 阶段组织 + 财务预算 + 现金流管理 + 关键指标（COO/CFO 视角） | 100% (6/6 场景) | ✅ 可用 |
 
 ## 技能详情
 
@@ -125,6 +128,90 @@
    - 每周/每月/每季/每年 必做事项
    - 红色预警信号 + 4 阶段成长路径
 
+### AI创业CTO技术架构 (ai-startup-cto-architecture)
+
+- **描述**: CTO/技术负责人的架构决策方法论
+- **核心内容**: 4 阶段架构 + 技术债评估 + 选型决策 + 团队搭建
+- **测试得分**: 100% (5/5 场景验证)
+- **文件位置**: [skills/ai-startup-cto-architecture/](skills/ai-startup-cto-architecture/)
+- **适用人群**: CTO、技术负责人、架构师
+
+#### 核心模块
+
+1. **4 阶段技术架构**
+   - -1 MVP（最简可用，单体 + 托管）
+   - 0 验证（Docker + 主从 + 测试）
+   - 1 规模（微服务 + K8s + 监控）
+   - 2 平台（中台 + 数据湖 + 安全）
+
+2. **4 维技术债评估**
+   - 代码质量 / 文档 / 架构 / 运维
+   - 偿还优先级：P0 安全 → P1 架构 → P2 运维 → P3 代码 → P4 文档
+
+3. **5 选型原则 + DORA**
+   - 团队熟悉度 / 托管 / 主流 / 演进 / 可观测
+   - DORA 4 指标：部署频率 / 变更前置 / 失败率 / 恢复时间
+
+4. **团队搭建 + 安全 + FinOps**
+   - 4 阶段团队规模演进
+   - 5 大安全原则 + 检查清单
+   - 降本 5 招（预留实例 / Spot / 伸缩 / 缓存 / 归档）
+
+### AI创业营销GTM (ai-startup-marketing-gtm)
+
+- **描述**: CMO/营销负责人的 GTM 与增长方法论
+- **核心内容**: ICP 画像 + 价值主张 + 4 GTM 模式 + 6 渠道 + 增长飞轮
+- **测试得分**: 100% (6/6 场景验证)
+- **文件位置**: [skills/ai-startup-marketing-gtm/](skills/ai-startup-marketing-gtm/)
+- **适用人群**: CMO、营销负责人、增长负责人
+
+#### 核心模块
+
+1. **ICP 5 维客户画像**
+   - 行业 / 规模 / 角色 / 痛点 / 预算
+   - 5 问验证法（5个是 = 明确 ICP）
+
+2. **4 GTM 模式**
+   - SLG 销售（高客单/复杂）
+   - PLG 产品（低门槛/自助）
+   - MLG 营销（标准化/中型）
+   - ELG 生态（平台/多边）
+
+3. **6 获客渠道 ROI**
+   - 内容营销 / 付费广告 / 销售外呼 / 客户转介 / 行业活动 / 渠道合作
+   - 渠道 ROI 矩阵 + 早期优先级
+
+4. **3 增长飞轮 + 5 指标**
+   - 内容飞轮 / 产品飞轮 / 销售飞轮
+   - AARRR 海盗指标
+   - 5 营销指标（流量/转化率/CAC/LTV/CAC/NPS）
+
+### AI创业运营与财务 (ai-startup-operations-finance)
+
+- **描述**: COO/CFO/运营负责人的组织 + 财务方法论
+- **核心内容**: 组织设计 + 流程优化 + 财务预算 + 现金流 + 关键指标
+- **测试得分**: 100% (6/6 场景验证)
+- **文件位置**: [skills/ai-startup-operations-finance/](skills/ai-startup-operations-finance/)
+- **适用人群**: COO、CFO、运营负责人、人力资源
+
+#### 核心模块
+
+1. **4 阶段组织演进**
+   - 创始人驱动（1-5）→ 职能分工（5-20）→ 业务线（20-100）→ 集团化（100+）
+   - RACI 角色模型 + 6 大关键角色职责
+
+2. **3 大财务报表**
+   - 利润表 P&L / 资产负债表 BS / 现金流量表 CF
+   - 5 财务指标（毛利率/净利率/跑道/CAC/LTV/CAC）
+
+3. **现金流 3 原则 + 6 措施**
+   - 收入早收 / 支出晚付 / 预算控制
+   - 危机信号 + 6 项应对措施
+
+4. **5 运营指标 + 文化建设**
+   - 人均产出 / 客户 NPS / 员工 NPS / 关键人才流失 / 决策速度
+   - 3 要素文化（使命/愿景/价值观）
+
 ### AI创业多视角评估手册 (ai-startup-multi-perspective-evaluation)
 
 - **描述**: 5 视角交叉验证 + 加权决策的元技能
@@ -195,7 +282,10 @@ enterprise-ai-skills-collection/
     ├── investor-pitch-evaluation-framework/          # 技能3
     ├── startup-ecosystem-operating-model/            # 技能4
     ├── ai-startup-policy-trend/                      # 技能5
-    └── ai-startup-multi-perspective-evaluation/      # 技能6 (元技能)
+    ├── ai-startup-multi-perspective-evaluation/      # 技能6 (元技能)
+    ├── ai-startup-cto-architecture/                  # 技能7
+    ├── ai-startup-marketing-gtm/                     # 技能8
+    └── ai-startup-operations-finance/                # 技能9
 ```
 
 ## 使用方式
@@ -225,9 +315,9 @@ cd enterprise-ai-skills-collection/skills/ai-driven-economic-research
 
 ## 技能统计
 
-- **总技能数**: 6
-- **已测试技能**: 6
-- **平均测试得分**: 98.0/100
+- **总技能数**: 9
+- **已测试技能**: 9
+- **平均测试得分**: 98.2/100
 - **最后更新**: 2026-06-07
 
 ## 贡献指南
@@ -243,5 +333,5 @@ cd enterprise-ai-skills-collection/skills/ai-driven-economic-research
 ---
 
 **更新时间**: 2026-06-07
-**技能总数**: 6
+**技能总数**: 9
 **维护者**: wanglin1111111

@@ -39,6 +39,21 @@
 - **核心内容**: 创始人/投资人/孵化器/政策/学术 整合评估
 - **测试得分**: 100% (5/5 案例)
 
+#### AI Startup CTO Architecture (AI创业CTO技术架构)
+- **描述**: CTO 技术架构与决策方法论
+- **核心内容**: 4 阶段架构 + 技术债评估 + 选型决策
+- **测试得分**: 100% (5/5 场景)
+
+#### AI Startup Marketing GTM (AI创业营销GTM)
+- **描述**: 营销 GTM 与增长方法论
+- **核心内容**: ICP + 价值主张 + 4 GTM 模式 + 6 渠道
+- **测试得分**: 100% (6/6 场景)
+
+#### AI Startup Operations & Finance (AI创业运营与财务)
+- **描述**: 运营 + 财务方法论
+- **核心内容**: 组织设计 + 财务预算 + 现金流管理
+- **测试得分**: 100% (6/6 场景)
+
 ## 技能目录
 
 查看各技能详细文档请访问对应子目录。
@@ -46,7 +61,7 @@
 ---
 
 **更新时间**: 2026-06-07
-**技能总数**: 6
+**技能总数**: 9
 
 ## 目录结构
 
@@ -61,7 +76,10 @@ enterprise-ai-skills-collection/
     ├── investor-pitch-evaluation-framework/
     ├── startup-ecosystem-operating-model/
     ├── ai-startup-policy-trend/
-    └── ai-startup-multi-perspective-evaluation/   # 元技能
+    ├── ai-startup-multi-perspective-evaluation/   # 元技能
+    ├── ai-startup-cto-architecture/              # CTO
+    ├── ai-startup-marketing-gtm/                 # CMO
+    └── ai-startup-operations-finance/            # COO/CFO
 ```
 
 ## 快速开始
