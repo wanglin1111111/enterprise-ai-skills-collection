@@ -34,6 +34,11 @@
 - **核心内容**: 4 政策维度 + 算力国产化 + 地缘政治
 - **测试得分**: 100% (5/5 场景)
 
+#### AI Startup Multi-Perspective Evaluation (AI创业多视角评估手册)
+- **描述**: 5 视角交叉验证 + 加权决策的元技能
+- **核心内容**: 创始人/投资人/孵化器/政策/学术 整合评估
+- **测试得分**: 100% (5/5 案例)
+
 ## 技能目录
 
 查看各技能详细文档请访问对应子目录。
@@ -41,7 +46,7 @@
 ---
 
 **更新时间**: 2026-06-07
-**技能总数**: 5
+**技能总数**: 6
 
 ## 目录结构
 
@@ -55,7 +60,8 @@ enterprise-ai-skills-collection/
     ├── scenario-ai-startup-framework/
     ├── investor-pitch-evaluation-framework/
     ├── startup-ecosystem-operating-model/
-    └── ai-startup-policy-trend/
+    ├── ai-startup-policy-trend/
+    └── ai-startup-multi-perspective-evaluation/   # 元技能
 ```
 
 ## 快速开始

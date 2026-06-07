@@ -11,6 +11,7 @@
 | [投资人路演评估框架](skills/investor-pitch-evaluation-framework/) | 6 维评分卡 + 5 分钟信号提取 + 决策矩阵（投资人视角） | 100% (3/3 案例) | ✅ 可用 |
 | [创业社区生态运营模型](skills/startup-ecosystem-operating-model/) | 5 层生态模型 + 阶段性支持 + 校友网络（孵化器视角） | 100% (5/5 场景) | ✅ 可用 |
 | [AI创业政策与产业趋势](skills/ai-startup-policy-trend/) | 4 政策维度 + 算力国产化 + 地缘政治应对（政策视角） | 100% (5/5 场景) | ✅ 可用 |
+| [AI创业多视角评估手册](skills/ai-startup-multi-perspective-evaluation/) | 5 视角交叉验证 + 加权决策（元技能，整合 4 视角） | 100% (5/5 案例) | ✅ 可用 |
 
 ## 技能详情
 
@@ -124,6 +125,34 @@
    - 每周/每月/每季/每年 必做事项
    - 红色预警信号 + 4 阶段成长路径
 
+### AI创业多视角评估手册 (ai-startup-multi-perspective-evaluation)
+
+- **描述**: 5 视角交叉验证 + 加权决策的元技能
+- **核心内容**: 创始人/投资人/孵化器/政策/学术 多视角整合
+- **测试得分**: 100% (5/5 案例验证)
+- **文件位置**: [skills/ai-startup-multi-perspective-evaluation/](skills/ai-startup-multi-perspective-evaluation/)
+- **适用人群**: 综合评估者、跨领域决策者、复杂项目判断
+
+#### 核心模块
+
+1. **5 视角评分卡**
+   - 创始人 (0.25): 需求 + 融合 + 飞轮 + 成本
+   - 投资人 (0.30): 6 维评分 + 信号 + 估值
+   - 孵化器 (0.20): 存活 + 融资 + 校友价值
+   - 政策 (0.15): 监管 + 算力 + 地缘
+   - 学术 (0.10): 方法 + 数据价值
+
+2. **加权公式与 4 档决策**
+   - 重点跟进 (≥7.5) / 重点观察 (6.0-7.4) / 谨慎参与 (4.5-5.9) / 不参与 (<4.5)
+
+3. **冲突处理与盲区对冲**
+   - 4 类视角冲突规则
+   - 5 视角盲区互相对冲
+
+4. **实战评估模板**
+   - 完整评估表
+   - 5 案例验证 (智能硬件/企业工具/教育/跨境/工业)
+
 ### AI创业政策与产业趋势 (ai-startup-policy-trend)
 
 - **描述**: AI 创业的政策环境与产业趋势方法论
@@ -161,11 +190,12 @@ enterprise-ai-skills-collection/
 ├── README.md                        # 项目说明
 ├── INDEX.md                         # 技能索引（本文件）
 └── skills/
-    ├── ai-driven-economic-research/           # 技能1
-    ├── scenario-ai-startup-framework/        # 技能2
-    ├── investor-pitch-evaluation-framework/  # 技能3
-    ├── startup-ecosystem-operating-model/    # 技能4
-    └── ai-startup-policy-trend/              # 技能5
+    ├── ai-driven-economic-research/                   # 技能1
+    ├── scenario-ai-startup-framework/                # 技能2
+    ├── investor-pitch-evaluation-framework/          # 技能3
+    ├── startup-ecosystem-operating-model/            # 技能4
+    ├── ai-startup-policy-trend/                      # 技能5
+    └── ai-startup-multi-perspective-evaluation/      # 技能6 (元技能)
 ```
 
 ## 使用方式
@@ -195,9 +225,9 @@ cd enterprise-ai-skills-collection/skills/ai-driven-economic-research
 
 ## 技能统计
 
-- **总技能数**: 5
-- **已测试技能**: 5
-- **平均测试得分**: 97.9/100
+- **总技能数**: 6
+- **已测试技能**: 6
+- **平均测试得分**: 98.0/100
 - **最后更新**: 2026-06-07
 
 ## 贡献指南
@@ -213,5 +243,5 @@ cd enterprise-ai-skills-collection/skills/ai-driven-economic-research
 ---
 
 **更新时间**: 2026-06-07
-**技能总数**: 5
+**技能总数**: 6
 **维护者**: wanglin1111111
